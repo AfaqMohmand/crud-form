@@ -1,0 +1,213 @@
+[
+  {
+    "category": "BasicInformation",
+    "label": "First Name",
+    "inputType": "text",
+    "placeholder": "First Name",
+    "name": "firstName"
+  },
+  {
+    "category": "BasicInformation",
+    "label": "Last Name",
+    "inputType": "text",
+    "placeholder": "Last Name",
+    "name": "lastName"
+  },
+  {
+    "category": "BasicInformation",
+    "label": "Email",
+    "inputType": "email",
+    "placeholder": "Email ",
+    "name": "email"
+  },
+  {
+    "category": "BasicInformation",
+    "label": "Phone No",
+    "inputType": "number",
+    "placeholder": "phone No",
+    "name": "phoneNo"
+  },
+  {
+    "category": "BasicInformation",
+    "label": "address",
+    "inputType": "text",
+    "placeholder": "Address",
+    "name": "address"
+  },
+  {
+    "category": "BasicInformation",
+    "label": "Religion",
+    "inputType": "text",
+    "placeholder": "Religion",
+    "name": "religion"
+  },
+  {
+    "category": "BasicInformation",
+    "label": "About Yourself",
+    "inputType": "textarea",
+    "placeholder": "About Yourself",
+    "name": "aboutYourself"
+  },
+  {
+    "category": "BasicInformation",
+    "label": "Gender",
+    "inputType": "radio",
+    "name":"radioOption",
+    "placeholder": "Select Gender",
+    "options": [
+      { "key": "option1", "value": "Male" },
+      { "key": "option2", "value": "Female" },
+      { "key": "option3", "value": "Other" }
+    ]
+  },
+  {
+    "category": "BasicInformation",
+    "label": "Multi Select",
+    "inputType": "isMulti",
+    "name":"multiSelect",
+    "placeholder": "Select Multiple Values",
+    "options" :[
+      { "value": "chocolate", "label": "Chocolate" },
+      { "value": "strawberry", "label": "Strawberry" },
+      { "value": "vanilla", "label": "Vanilla" }
+    ]
+  },
+  
+  {
+    "category": "WorkExperience",
+    "label": "Job Title",
+    "inputType": "text",
+    "placeholder": "Job Title",
+    "name": "jobTitle"
+  },
+  {
+    "category": "WorkExperience",
+    "label": "Company Name",
+    "inputType": "text",
+    "placeholder": "Company Name",
+    "name": "companyName"
+  },
+  {
+    "category": "WorkExperience",
+    "label": "Start Date",
+    "inputType": "date",
+    "placeholder": "start Date",
+    "name": "startDate"
+  },
+  {
+    "category": "WorkExperience",
+    "label": "End Date",
+    "inputType": "date",
+    "placeholder": "End Date",
+    "name": "endDate"
+  },
+  {
+    "category": "WorkExperience",
+    "label": "Job Description",
+    "inputType": "text",
+    "placeholder": "job Description",
+    "name": "jobDescription"
+  },
+  {
+    "category": "Education",
+    "label": "Institution Name",
+    "inputType": "text",
+    "placeholder": "Institution Name",
+    "name": "institutionName"
+  },
+  {
+    "category": "Education",
+    "label": "Degree Name",
+    "inputType": "text",
+    "placeholder": "Degree Name",
+    "name": "degreeName"
+  },
+  {
+    "category": "Education",
+    "label": "Start Date",
+    "inputType": "date",
+    "placeholder": "start Date",
+    "name": "startDate"
+  },
+  {
+    "category": "Education",
+    "label": "End Date",
+    "inputType": "date",
+    "placeholder": "End Date",
+    "name": "endDate"
+  },
+  {
+    "category": "Education",
+    "label": "Subjects",
+    "inputType": "text",
+    "placeholder": "Subjects",
+    "name": "subjects"
+  },
+  {
+    "category": "Social",
+    "label": "Social Account Name",
+    "inputType": "text",
+    "placeholder": "Social Account Name",
+    "name": "socialAccountName"
+  },
+  {
+    "category": "Social",
+    "label": "Social Account Link",
+    "inputType": "text",
+    "placeholder": "Social Account Link",
+    "name": "socialAccountLink"
+  },
+  {
+    "category": "Skills",
+    "label": "Skill Name",
+    "inputType": "text",
+    "placeholder": "Skill Name",
+    "name": "skillName"
+  },
+  {
+    "category": "Skills",
+    "label": "Rate Yourself",
+    "inputType": "number",
+    "placeholder": "Rate Yourself",
+    "name": "rateYourself"
+  },
+  {
+    "category": "Skills",
+    "label": "Select Multiple Skills",
+    "inputType": "checkbox",
+    "name":"checkboxOption",
+    "placeholder": "Select Multiple",
+    "options": [
+      { "key": "option1", "value": "HTML" },
+      { "key": "option2", "value": "CSS" },
+      { "key": "option3", "value": "Javascript" },
+      { "key": "option4", "value": "React" }
+    ]
+  },
+  {
+    "category": "Hobbies",
+    "label": "Hobbies",
+    "inputType": "textarea",
+    "placeholder": "Hobbies",
+    "name": "hobbies"
+  },
+  {
+    "category": "Hobbies",
+    "label": "Select One Hobby",
+    "inputType": "select",
+    "placeholder": "Select Many",
+    "name": "socialAccounts",
+    "options": [
+      { "value": "option1", "label": "Cricket" },
+      { "value": "option2", "label": "Badminton" },
+      { "value": "option3", "label": "Football" }
+    ]
+  },
+  {
+    "category": "References",
+    "label": "References",
+    "inputType": "textarea",
+    "placeholder": "References",
+    "name": "references"
+  }
+]

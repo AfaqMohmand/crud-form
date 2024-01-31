@@ -1,0 +1,17 @@
+.headerStyle{
+    height: 100vh;
+    background-color: #198754;
+}
+label {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  input + label {
+    display: inline-flex;
+    margin-right: 20px;
+  }
+  
+   .form-control {
+    margin-bottom: 20px;
+  } 
